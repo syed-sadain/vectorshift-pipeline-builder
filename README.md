@@ -11,6 +11,17 @@ Automatic handle placement for inputs and outputs
 NodeField helper for labeled form rows
 9 nodes total: Input, Output, LLM, Text, API Request, Filter, Transform, Merge, Note
 
+## 🛠️ Technology Stack
+Frontend
+React
+ReactFlow
+JavaScript (ES6+)
+CSS
+Backend
+Python 3.9+
+FastAPI
+Uvicorn
+
 ## Part 2 — Styling
 Dark-themed UI with:
 
@@ -138,16 +149,7 @@ After receiving the response, the frontend displays a user-friendly alert contai
 Number of Nodes
 Number of Edges
 DAG Status
-## 🛠️ Technology Stack
-Frontend
-React
-ReactFlow
-JavaScript (ES6+)
-CSS
-Backend
-Python 3.9+
-FastAPI
-Uvicorn
+
 ## 📁 Project Structure
 frontend/
 │
